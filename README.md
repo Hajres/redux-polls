@@ -1,6 +1,6 @@
 # Redux-polls 
 
-A poll app lets you make new polls and answer differen questions also shows you a leaderboard.   
+An app lets you make new polls and answer differen questions and also shows you a leaderboard.   
 
 App here : https://zen-bartik-65c66c.netlify.app
 
